@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @crryzz9
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning HTML, CSS & React
+- 🌱 I’m currently learning HTML, CSS & JavaScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me victorreig99@gmail.com
 - 😄 Pronouns: ...
