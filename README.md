@@ -28,7 +28,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" alt="Supabase" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" alt="Vercel" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="50" height="50"/>
-  <img src="https://cdn.simpleicons.org/blade/FF2D20" alt="Blade" width="50" height="50"/></p>
+  <img src="https://cdn.simpleicons.org/laravel/FF2D20" alt="Laravel Blade" width="50" height="50"/>
 
 ## 🌍 Languages
 
