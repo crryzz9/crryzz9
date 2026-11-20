@@ -1,48 +1,51 @@
-# 👋 Hi, I'm Víctor
+<!-- Header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:7aa2f7&height=160&section=header&text=Hi,%20I'm%20Víctor%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
+</p>
 
-🎓 I'm a **Web Application Development** student, 20 years old, currently studying in **Barcelona, Spain**.
+<p align="center">
+  <a href="https://github.com/crryzz9">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Web+Application+Development+student;Full+Stack+%7C+Laravel+%C2%B7+React+%C2%B7+Node;Background+in+Systems+%26+Networks" alt="Typing SVG" />
+  </a>
+</p>
 
-💻 I'm passionate about web development and always looking to improve by learning modern tools and technologies to build fast and functional web apps.
-
-📬 Feel free to contact me at: **victorreig99@gmail.com**
+<p align="center">
+  <a href="mailto:victorreig99@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <img src="https://img.shields.io/badge/Sabadell,%20Spain-1a1b27?style=for-the-badge&logo=googlemaps&logoColor=7aa2f7" />
+</p>
 
 ---
 
-## 🛠️ Technologies I know
+### 🧑‍💻 About me
+
+- 🎓 Studying **Web Application Development (DAW)** at Institut Jaume Viladoms
+- 🔧 Background in **Systems & Networks** and experience as a **support technician**
+- 💼 Currently doing my internship at **Esffera Tecnologistics**, building mini apps and API integrations with **Laravel**
+- 🌐 Maintaining the website of **Events In Blue Worldwide**
+- 🌍 Spanish · Catalan · English (B2)
+
+---
+
+### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" alt="ViteJS" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="TailwindCSS" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" alt="WordPress" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,java,c,vite,tailwind,wordpress,react,nodejs,mysql,mongodb,supabase,docker,vercel,linux,laravel&perline=9&theme=dark" />
 </p>
 
+---
+
+
+### 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" alt="Supabase" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" alt="Vercel" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="50" height="50"/>
-  <img src="https://cdn.simpleicons.org/laravel/FF2D20" alt="Laravel Blade" width="50" height="50"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=crryzz9&theme=tokyonight" height="165"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=crryzz9&theme=tokyonight" height="165"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=crryzz9&theme=tokyonight" height="165"/>
 </p>
 
-## 🌍 Languages
-
-- Spanish 🇪🇸
-- Catalan
-- English (B2 level)
-
-## 📊 Most Used Languages
-
+<!-- Footer -->
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=crryzz9&theme=tokyonight" alt="Repos per language" height="180"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=crryzz9&theme=tokyonight" alt="Most commit language" height="180"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,100:1a1b27&height=100&section=footer" />
 </p>
