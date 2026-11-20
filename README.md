@@ -23,7 +23,6 @@
 - 🎓 Studying **Web Application Development (DAW)** at Institut Jaume Viladoms
 - 🔧 Background in **Systems & Networks** and experience as a **support technician**
 - 💼 Currently doing my internship at **Esffera Tecnologistics**, building mini apps and API integrations with **Laravel**
-- 🌐 Maintaining the website of **Events In Blue Worldwide**
 - 🌍 Spanish · Catalan · English (B2)
 
 ---
