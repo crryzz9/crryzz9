@@ -1,50 +1,82 @@
-<!-- Header -->
+<!-- ===================== HEADER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:7aa2f7&height=160&section=header&text=Hi,%20I'm%20Víctor%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:3d59a1,100:7aa2f7&height=200&section=header&text=Víctor%20Reig&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Web%20Developer%20in%20training&descSize=18&descAlignY=56&descAlign=50" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/crryzz9">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Web+Application+Development+student;Full+Stack+%7C+Laravel+%C2%B7+React+%C2%B7+Node;Background+in+Systems+%26+Networks" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=7AA2F7&center=true&vCenter=true&width=650&lines=Laravel+%C2%B7+React+%C2%B7+Node.js;Building+fast+and+functional+web+apps;Background+in+Systems+%26+Networks;Graduating+in+June+2027+%F0%9F%8E%93" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=victorreig99@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-Contact%20me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <img src="https://img.shields.io/badge/Location-Sabadell,%20Spain-7aa2f7?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=1a1b27" />
+  <img src="https://komarev.com/ghpvc/?username=crryzz9&color=7aa2f7&style=for-the-badge&label=PROFILE+VIEWS" />
+</p>
+
+<br>
+
+<!-- ===================== ABOUT ===================== -->
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About me
+
+```js
+const victor = {
+  role:        "Web Application Development student (DAW)",
+  school:      "Institut Jaume Viladoms · Sabadell",
+  background:  ["Systems & Networks", "IT Support Technician"],
+  currently:   "Internship at Esffera Tecnologistics · Laravel apps & API integrations",
+  maintaining: "Events In Blue Worldwide website",
+  languages:   ["Spanish", "Catalan", "English (B2)"],
+  graduating:  "June 2027",
+};
+```
+
+<br>
+
+<!-- ===================== TECH STACK ===================== -->
+## 🛠️ Tech Stack
+
+<table align="center">
+  <tr>
+    <td align="center" width="140"><b>🎨 Frontend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind&theme=dark" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>⚙️ Backend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=php,laravel,nodejs,python,java,c&theme=dark" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>🗄️ Databases</b></td>
+    <td><img src="https://skillicons.dev/icons?i=mysql,mongodb,supabase&theme=dark" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>🚀 DevOps & CMS</b></td>
+    <td><img src="https://skillicons.dev/icons?i=docker,linux,vercel,wordpress&theme=dark" /></td>
+  </tr>
+</table>
+
+<br>
+
+
+<!-- ===================== STATS ===================== -->
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=crryzz9&theme=tokyonight" height="165" />
+  <img src="https://streak-stats.demolab.com?user=crryzz9&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
 <p align="center">
-  <a href="mailto:victorreig99@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <img src="https://img.shields.io/badge/Sabadell,%20Spain-1a1b27?style=for-the-badge&logo=googlemaps&logoColor=7aa2f7" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=crryzz9&theme=tokyonight" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=crryzz9&theme=tokyonight" height="165" />
 </p>
 
----
-
-### 🧑‍💻 About me
-
-- 🎓 Studying **Web Application Development (DAW)** at Institut Jaume Viladoms
-- 🔧 Background in **Systems & Networks** and experience as a **support technician**
-- 💼 Currently doing my internship at **Esffera Tecnologistics**, building mini apps and API integrations with **Laravel**
-- 🌍 Spanish · Catalan · English (B2)
-
----
-
-### 🛠️ Tech Stack
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,java,c,vite,tailwind,wordpress,react,nodejs,mysql,mongodb,supabase,docker,vercel,linux,laravel&perline=9&theme=dark" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=crryzz9&theme=tokyo-night&hide_border=true&area=true" width="100%" />
 </p>
 
----
-
-
-### 📊 GitHub Stats
-
+<!-- ===================== FOOTER ===================== -->
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=crryzz9&theme=tokyonight" height="165"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=crryzz9&theme=tokyonight" height="165"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=crryzz9&theme=tokyonight" height="165"/>
-</p>
-
-<!-- Footer -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,100:1a1b27&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,50:3d59a1,100:1a1b27&height=120&section=footer" />
 </p>
