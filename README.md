@@ -58,3 +58,19 @@ I come from a **Systems & Networks** background and worked as an **IT Support Te
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=crryzz9&theme=tokyonight&v=2" height="165" />
+  <img src="https://streak-stats.demolab.com?user=crryzz9&theme=tokyonight&hide_border=true&v=2" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=crryzz9&theme=tokyonight&v=2" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=crryzz9&theme=tokyonight&v=2" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=crryzz9&theme=tokyo-night&hide_border=true&area=true&v=2" width="100%" />
+</p>
+
+<!-- ===================== FOOTER ===================== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,50:3d59a1,100:1a1b27&height=120&section=footer" />
+</p>
