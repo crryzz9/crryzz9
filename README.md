@@ -1,4 +1,5 @@
 <!-- ===================== HEADER ===================== -->
+ 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:3d59a1,100:7aa2f7&height=200&section=header&text=Víctor%20Reig&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Web%20Developer%20in%20training&descSize=18&descAlignY=56&descAlign=50" />
 </p>
@@ -13,6 +14,7 @@
 </p>
 <br>
 <!-- ===================== ABOUT ===================== -->
+ 
 ## 👋 About me
  
 I'm a **Web Application Development (DAW)** student at **Institut Jaume Viladoms** in Sabadell, graduating in **June 2027**.
@@ -25,6 +27,7 @@ I come from a **Systems & Networks** background and worked as an **IT Support Te
 - 🗣️ Spanish · Catalan · English (B2)
 <br>
 <!-- ===================== TECH STACK ===================== -->
+ 
 ## 🛠️ Tech Stack
  
 <table align="center">
@@ -50,14 +53,12 @@ I come from a **Systems & Networks** background and worked as an **IT Support Te
   </tr>
   <tr>
     <td align="center"><b>🧰 Tools</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=git,github,vscode,npm&theme=dark" /><br>
-      <img src="https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white" />
-    </td>
+    <td><img src="https://skillicons.dev/icons?i=git,github,vscode,npm&theme=dark" /> <img src="./assets/phpmyadmin.svg" height="48" /></td>
   </tr>
 </table>
 <br>
 <!-- ===================== STATS ===================== -->
+ 
 ## 📊 GitHub Stats
  
 <p align="center">
@@ -68,6 +69,7 @@ I come from a **Systems & Networks** background and worked as an **IT Support Te
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=crryzz9&theme=tokyo-night&hide_border=true&area=true&v=2" width="100%" />
 </p>
 <!-- ===================== FOOTER ===================== -->
+ 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,50:3d59a1,100:1a1b27&height=120&section=footer" />
 </p>
