@@ -9,31 +9,23 @@
 
 <p align="center">
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=victorreig99@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-Contact%20me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Contact%20me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <img src="https://img.shields.io/badge/Location-Sabadell,%20Spain-7aa2f7?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=1a1b27" />
-  <img src="https://komarev.com/ghpvc/?username=crryzz9&color=7aa2f7&style=for-the-badge&label=PROFILE+VIEWS" />
+  <img src="https://img.shields.io/badge/Sabadell,%20Spain-3d59a1?style=for-the-badge&logo=googlemaps&logoColor=white" />
 </p>
 
 <br>
 
-<!-- ===================== ABOUT ===================== -->
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About me
+## 👋 About me
 
-```js
-const victor = {
-  role:        "Web Application Development student (DAW)",
-  school:      "Institut Jaume Viladoms · Sabadell",
-  background:  ["Systems & Networks", "IT Support Technician"],
-  currently:   "Internship at Esffera Tecnologistics · Laravel apps & API integrations",
-  maintaining: "Events In Blue Worldwide website",
-  languages:   ["Spanish", "Catalan", "English (B2)"],
-  graduating:  "June 2027",
-};
-```
+I'm a **Web Application Development (DAW)** student at **Institut Jaume Viladoms** in Sabadell, graduating in **June 2027**.
+I come from a **Systems & Networks** background and worked as an **IT Support Technician** before jumping into web development.
 
-<br>
-
+- 💼 Doing my internship at **Esffera Tecnologistics**, building Laravel apps and API integrations
+- 🌐 Maintaining the website of **Events In Blue Worldwide**
+- 🌱 Always learning modern tools to build fast and functional web apps
+- 🗣️ Spanish · Catalan · English (B2)
+</br>
 <!-- ===================== TECH STACK ===================== -->
 ## 🛠️ Tech Stack
 
