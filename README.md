@@ -51,7 +51,7 @@ I come from a **Systems & Networks** background and worked as an **IT Support Te
   </tr>
   <tr>
     <td align="center"><b>🗄️ Databases</b></td>
-    <td><img src="https://skillicons.dev/icons?i=mysql,mongodb,supabase&theme=dark" /></td>
+    <td><img src="https://skillicons.dev/icons?i=mysql,mongodb,supabase&theme=dark" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="48" /></td>
   </tr>
   <tr>
     <td align="center"><b>🚀 DevOps & CMS</b></td>
@@ -59,7 +59,7 @@ I come from a **Systems & Networks** background and worked as an **IT Support Te
   </tr>
   <tr>
     <td align="center"><b>🧰 Tools</b></td>
-    <td><img src="https://skillicons.dev/icons?i=git,github,vscode,npm&theme=dark" /> <img src="./assets/phpmyadmin.svg" height="48" /></td>
+    <td><img src="https://skillicons.dev/icons?i=git,github,vscode,npm,postman,figma&theme=dark" /> <img src="./assets/phpmyadmin.svg" height="48" /></td>
   </tr>
 </table>
 
