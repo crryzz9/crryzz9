@@ -75,7 +75,7 @@ I come from a **Systems & Networks** background and worked as an **IT Support Te
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=crryzz9&theme=tokyo-night&hide_border=true&area=true&v=2" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=crryzz9&theme=tokyonight&v=2" width="100%" />
 </p>
 
 <!-- ===================== FOOTER ===================== -->
