@@ -28,6 +28,7 @@ I come from a **Systems & Networks** background and worked as an **IT Support Te
 - 🌐 Maintaining the website of **Events In Blue Worldwide**
 - 🖥️ Also building desktop apps with **Electron** and **Java**
 - 🐳 Comfortable with **Docker** and **Linux** thanks to my systems background
+- 🌱 Currently learning **TypeScript**
 - 🗣️ Spanish · Catalan · English (B2)
 
 <br>
@@ -43,7 +44,7 @@ I come from a **Systems & Networks** background and worked as an **IT Support Te
   </tr>
   <tr>
     <td align="center"><b>⚙️ Backend</b></td>
-    <td><img src="https://skillicons.dev/icons?i=php,laravel,nodejs,python,java,c&theme=dark" /></td>
+    <td><img src="https://skillicons.dev/icons?i=php,laravel,nodejs,python,c&theme=dark" /></td>
   </tr>
   <tr>
     <td align="center"><b>🖥️ Desktop</b></td>
@@ -70,12 +71,7 @@ I come from a **Systems & Networks** background and worked as an **IT Support Te
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=crryzz9&theme=tokyonight&v=2" height="165" />
   <img src="https://streak-stats.demolab.com?user=crryzz9&theme=tokyonight&hide_border=true&v=2" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=crryzz9&theme=tokyonight&v=2" height="165" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=crryzz9&theme=tokyonight&v=2" height="165" />
 </p>
 
