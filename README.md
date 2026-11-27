@@ -28,7 +28,6 @@ I come from a **Systems & Networks** background and worked as an **IT Support Te
 - 🌐 Maintaining the website of **Events In Blue Worldwide**
 - 🖥️ Also building desktop apps with **Electron** and **Java**
 - 🐳 Comfortable with **Docker** and **Linux** thanks to my systems background
-- 🌱 Currently learning **TypeScript**
 - 🗣️ Spanish · Catalan · English (B2)
 
 <br>
